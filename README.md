@@ -1,2 +1,11 @@
-# JS-Concepts-By-Examples
-Trying out diffrent JS concepts by examples while reading the book JS The Good Parts by Douglas Crockford
+# JS Concepts By Examples
+
+## Trying out diffrent JS concepts by examples while reading the book JS The Good Parts by Douglas Crockford
+## But with modern ES6+ syntax
+
+### Contents
+
+- [Functions](/Functions)
+  - [Function Invocations](/Functions/function%20invocations.js)
+  - [Closure](/Functions/closure.js)
+- More will be added gradually
