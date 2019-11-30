@@ -8,4 +8,6 @@
 - [Functions](/Functions)
   - [Function Invocations](/Functions/function%20invocations.js)
   - [Closure](/Functions/closure.js)
+- [Arrays](/Arrays)
+  - [Array from Object](/Arrays/array%20from%20object.js)
 - More will be added gradually
