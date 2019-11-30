@@ -10,4 +10,6 @@
   - [Closure](/Functions/closure.js)
 - [Arrays](/Arrays)
   - [Array from Object](/Arrays/array%20from%20object.js)
+  - [Length](/Arrays/length.js)
+  - [Insertion Deletion](/Arrays/insertion%20deletion.js)
 - More will be added gradually
