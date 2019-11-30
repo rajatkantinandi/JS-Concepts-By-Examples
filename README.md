@@ -1,7 +1,7 @@
 # JS Concepts By Examples
 
-## Trying out diffrent JS concepts by examples while reading the book JS The Good Parts by Douglas Crockford
-## But with modern ES6+ syntax
+## Trying out different JS concepts by examples while reading the book JS The Good Parts by Douglas Crockford
+## But with modern ES6+ syntax and additional examples
 
 ### Contents
 
